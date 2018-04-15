@@ -6,7 +6,6 @@
     <property name="can_focus">False</property>
     <property name="type_hint">dialog</property>
     <property name="deletable">False</property>
-    <signal name="close" handler="onJanelinhaClose" swapped="no"/>
     <child internal-child="vbox">
       <object class="GtkBox" id="dialog-vbox1">
         <property name="can_focus">False</property>
